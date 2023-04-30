@@ -1,11 +1,9 @@
-import Message from "./Message";
+import FormComponent from "./components/FormComponent";
 
 function App(){
-  return(
-    <div>
-      <Message/>
-    </div>
-  );
+    return (
+        <FormComponent />
+    );
 }
 
 export default App;
