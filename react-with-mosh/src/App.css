@@ -1,0 +1,21 @@
+.continue-with-google {
+  border: 1px solid #ced4da;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.continue-with-google:hover {
+  background-color: #f8f9fa;
+}
+
+.google-logo {
+  width: 30px;
+  height: auto;
+  margin-left: 0p4; /* Adjust this value to add more space on the left side of the logo */
+}
+
+.continue-with-google-text {
+  flex-grow: 1;
+  text-align: center;
+}
